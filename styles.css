@@ -1,0 +1,342 @@
+            img{
+                height: 100px;
+                width: 100px;
+                left: 100px;
+                position: absolute;
+            }
+            h1{
+                font-size: 50px;
+                position: absolute;
+                left: 600px;
+                top: 0px;
+                color: red;
+                font-family: sans-serif;
+            }
+            #everything{
+                position: absolute;
+                top: 120px;
+                height: 800px;
+                width: 1000px;
+                left: 90px;
+            }
+            .S200{
+                position: absolute;
+                height: 200px;
+                width: 200px;
+            }
+            .S100{
+                position: absolute;
+                height: 100px;
+                width: 100px;
+            }
+            .S50{
+                position: absolute;
+                height: 50px;
+                width: 50px;
+            }
+            #tlblueR{
+                
+                top: 0px;
+                width: 400px;
+                height: 200px;
+                background: lightblue;
+            }
+            .gSquares{
+                height: 50px;
+                width: 50px;
+                background: grey;
+            }
+            #tLgrayS{
+                position: absolute;
+                left: 50px;
+                top: 75px;
+            }
+            #tLgrayr{
+                position: absolute;
+                left: 150px;
+                top: 75px;
+                width: 100px;
+            }
+            #tLgrayS2{
+                position: absolute;
+                left: 300px;
+                top: 75px;
+            }
+            #tyellowS{
+                background: yellow;
+                float: left;
+                left: 400px;
+                top: 0px;
+            }
+            #tLofTyellowgrayS{
+                position: absolute;
+                left: 0px;
+                top: 0px;
+            }
+            #bRofTyellowgrayS{
+                position: absolute;
+                top: 150;
+                left: 150;
+            }
+            #tRlightgreyS{
+                background: lightgray;
+                position: absolute;
+                left: 600px;
+                top: 0px;
+            }
+            #tRlightgrreySs{
+                position: absolute;
+                top: 75;
+                left: 75px;
+            }
+            #TredR{
+                position: absolute;
+                left: 800;
+                width: 100px;
+                height: 200px;
+                background: red;
+                top: 0px;
+            }
+            #tRturquoiseS{
+                height: 100px;
+                width: 100px;
+                background: turquoise;
+                position: absolute;
+                right: 0px;
+                left: 900px;
+                top: 0px;
+            }
+            #tRgreyS{
+                height: 100px;
+                width: 100px;
+                background: grey;
+                position: absolute;
+                right: 0px;
+                left: 900px;
+                top: 100px;
+            }
+            #tLredS{
+                background: red;
+                top: 200px;
+            }
+            #tLyellows{
+                background: yellow;
+                top: 200px;
+                left: 50px;
+            }
+            #tLyellows2{
+                background: yellow;
+                top: 200px;
+                left: 150px;
+            }
+            #tLredS2{
+                background: red;
+                top: 200px;
+                left: 100px;
+            }
+            #bLredS{
+                background: red;
+                top: 700px;
+                right: 100px;
+            }
+            #bLyellows{
+                background: yellow;
+                top: 700px;
+                right: 50px;
+            }
+            #bLyellows2{
+                background: yellow;
+                top: 700px;
+                right: 150px;
+            }
+            #bLredS2{
+                background: red;
+                top: 700px;
+                right: 00px;
+            }
+            .longPR{
+                width: 400px;
+                height: 50px;
+                background: purple;
+            }
+            #tLPR{
+                position: absolute;
+                top: 200px;
+                left: 200px;
+            }
+            #bLPR{
+                position: absolute;
+                top: 700px;
+                left: 400px;
+            }            
+            .longdPR{
+                position: absolute;
+                width: 400px;
+                height: 100px;
+                background: #2E0854;
+            }
+            #tLDPR{
+                left: 600px;
+                top: 200px;
+            }
+            #bLDPR{
+                left: 0px;
+                top: 700px;
+            }
+            .longOR{
+                position: absolute;
+                width: 400px;
+                height: 50px;
+                background: orange;
+            }
+            #tLOR{
+                left: 0px;
+                top: 250px;
+            }
+            #bLOR{
+                left: 600px;
+                top: 750px;
+            }
+            .GR{
+                position: absolute;
+                height: 50px;
+                width: 200px;
+                background: green;
+            }
+            #tGR{
+                left: 400px;
+                top: 250px;
+            }
+            #bGR{
+                left: 400px;
+                top: 750px;
+            }            
+            #gS{
+                background: gray;
+                left: 0px;
+                top: 300px;
+            }
+            #rR{
+                position: absolute;
+                left: 200px;
+                background: red;
+                top: 300px;
+                height: 400px;
+                width: 300px;
+            }
+            .wS{
+                background: white;
+            }
+            .dS{
+                background: lightgreen;
+            }
+            #topLwS{
+                left: 200px;
+                top: 300px;
+            }
+            #topRwS{
+                left: 450px;
+                top: 300px;
+            }
+            #bLwS{
+                left: 200px;
+                top: 650px;
+            }
+            #bRwS{
+                left: 450px;
+                top: 650px;
+            }
+            #m4wS{
+                height: 100px;
+                width: 100px;
+                left: 300px;
+                top: 450px;
+                top: 450px;
+            }
+            #ldS{
+                left: 500px;
+                top: 300px;
+            }
+            #wRightofldS{
+                left: 550px;
+                top: 300px;
+            }
+            #mdS{
+                left: 600px;
+                top: 300px;
+            }
+            #wRightofmdS{
+                left: 650px;
+                top: 300px;
+            }
+            #rdS{
+                left: 700px;
+                top: 300px;
+            }
+            #wRightofrdS{
+                left: 750px;
+                top: 300px;
+            }
+            #gs2{
+                background: gray;
+                left: 800px;
+                top: 300px;                
+            }
+            .llg{
+                position: absolute;
+                width: 300px;
+                height: 50px;
+                background: lightgray;
+            }
+            #topllg{
+                left: 500px;
+                top: 350px;
+            }
+            #lg{
+                background: green;
+                position: absolute;
+                width: 300px;
+                height: 50px;
+                left: 500px;
+                top: 400px;
+            }
+            #bottomllg{
+                left: 500px;
+                top: 450px;
+            }
+            #yellowS100{
+                left: 0px;
+                top: 500px;
+                background: yellow;
+            }
+            #tOS{
+                left: 100px;
+                top: 500px;
+                background: orange;
+            }
+            #bOS{
+                left: 0px;
+                top: 600px;
+                background: orange;
+            }    
+            #blgreys{
+                background: lightgray;
+                left: 100px;
+                top: 600px;
+            }
+            #bigTrect{
+                background: turquoise;
+                height: 200px;
+                width: 300px;
+                left: 500px;
+                top: 500px;
+                position: absolute;
+            }
+            #lgS{
+                background: lightgray;
+                height: 200px;
+                width: 200px;
+                left: 800px;
+                top: 500px;
+                position: absolute;
+            }
